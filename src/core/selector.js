@@ -4,6 +4,8 @@ export const createCourseForm = document.querySelector("#createCourseForm");
 export const recordUiTemplate = document.querySelector("#recordUiTemplate");
 export const recordGroup = document.querySelector("#recordGroup");
 export const recordEdit = document.querySelector("#record-edit");
+export const searchInput = document.querySelector("#searchInput");
+
 export const editCourseForm = document.querySelector("#editCourseForm");
 
 const options = {
